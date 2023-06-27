@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogames78
-- 👀 I’m interested in code
-- 🌱 I’m currently learning java, cpp, web
+- 👀 I’m interested in code arduino
+- 🌱 I’m currently learning java, cpp, web and arduino
 - 💞️ I’m looking to collaborate on not.
 - 📫 How to reach me ...
 
